@@ -1,6 +1,6 @@
-# Automotive Cooling System Control
+# EAE Combined Challenge
 
-A comprehensive C/C++ implementation of an automotive cooling system control firmware with CAN bus communication, PID control, state machine architecture, and comprehensive unit testing.
+This is a submission for EAE Combined Challenge. A comprehensive C implementation of a cooling system control firmware with CAN bus communication, PID control, state machine architecture, and comprehensive unit testing.
 
 ## Features
 
